@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sjw.iml" filepath="$PROJECT_DIR$/sjw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sjwmis/sjwmis.iml" filepath="$PROJECT_DIR$/sjwmis/sjwmis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sjwmis_vue/sjwmis_vue.iml" filepath="$PROJECT_DIR$/sjwmis_vue/sjwmis_vue.iml" />
+    </modules>
+  </component>
+</project>
